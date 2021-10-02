@@ -5,4 +5,4 @@ Currently, the routes for Users is there and works as intended, but I still need
 
 # Walkthrough Video
 
-!(Here)[https://watch.screencastify.com/v/u2pP33mvcdxPa6hNfOix] is the walkthrough video for this application. I wasn't able to get full functionality, as previously stated, but I'd already spent too long stuck on this project and wanted to at least post what I could. In future updates, this application will function fully and an updated walkthrough video will be included.
+(Here)[https://watch.screencastify.com/v/u2pP33mvcdxPa6hNfOix] is the walkthrough video for this application. I wasn't able to get full functionality, as previously stated, but I'd already spent too long stuck on this project and wanted to at least post what I could. In future updates, this application will function fully and an updated walkthrough video will be included.
